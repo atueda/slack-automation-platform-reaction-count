@@ -63,8 +63,11 @@ env.tsの`CHANNEL_IDS`に定義したチャンネルで`@reaction ranking`Botに
 ## Usage
 
 ### Develop
-
 ```shell
+slack trigger create --trigger-def ./triggers/mention_trigger.ts
+```
+```shell
+slack trigger create --trigger-def ./triggers/mention_trigger.ts
 slack run
 ```
 
