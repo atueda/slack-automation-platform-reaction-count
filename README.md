@@ -4,7 +4,7 @@
 カスタイズをしています
 https://hack-it-iron.hatenablog.com/entry/2022/12/01/114920
 
-自身が行ったリアクション 上位 20位をランキングで出してくれるBot
+特定のチャンネル、期間内にリアクションされた数をユーザ毎に集計するアプリです
 
 [new Slack platform](https://api.slack.com/future)で実装してます
 
